@@ -22,6 +22,7 @@ This will generate an output file with a name based on the input video file's na
 
 An example output file for this script is shown below:
 
+###Aladdin (1992)
 ![Aladdin](Aladdin.jpg)
 
 Readme authored by ChatGPT.
